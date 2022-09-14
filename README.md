@@ -1,4 +1,5 @@
-<img src="file:///Users/trevon/Desktop/TrevonGithubBanner.png" align="left" height="821" width="102" />  
+<div> <img src="https://github.com/T-Noble/T-Noble/image.png?raw=true" align="left" height="102" width="821" /> </div>
+
   
 
 ### <div align="center">I'm Trevon - a Marine Corps veteran, father, foodie, gym-rat and I'm mastering full-stack software development</div>  
