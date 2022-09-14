@@ -1,4 +1,4 @@
-<img src="<img src="file:///Users/trevon/Desktop/TrevonGithubBanner.png">" align="left" height="821" width="102" />  
+<img src="file:///Users/trevon/Desktop/TrevonGithubBanner.png" align="left" height="821" width="102" />  
   
 
 ### <div align="center">I'm Trevon - a Marine Corps veteran, father, foodie, gym-rat and I'm mastering full-stack software development</div>  
